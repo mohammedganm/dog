@@ -1,0 +1,35 @@
+body {
+    background-image: url("dog.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    width: auto;
+}
+.input{
+    height: 10rem;
+    width:100rem;
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    top: 9rem;
+    left: 2rem;
+}
+#title{
+    height: 3rem;
+    font-size: 2.5rem;
+}
+.output{
+    height: 10rem;
+    width:100vh ;
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    top: 22rem;
+    left: 2rem;
+
+  
+}
+#output{
+    font-size: 4rem;
+
+}
